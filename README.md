@@ -13,7 +13,7 @@ The primary goal of this project is to analyze sales data from a superstore to i
 
 	Are there any regions with declining sales trends?
 
-
-
+## Dashboard Interaction
+<a href="https://github.com/duval-ys/Excel-Dashboard-Project/blob/main/Screenshot%202025-01-09%20165906.png">View Dashboard</a>
 
 
